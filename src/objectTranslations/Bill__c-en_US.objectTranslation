@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Bill</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Bills</value>
+    </caseValues>
+    <fields>
+        <label><!-- Bill Name --></label>
+        <name>Bill_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Doctor Charge --></label>
+        <name>Doctor_Charge__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lab Charge --></label>
+        <name>Lab_Charge__c</name>
+    </fields>
+    <fields>
+        <label><!-- Medicine Charge --></label>
+        <name>Medicine_Charge__c</name>
+    </fields>
+    <fields>
+        <label><!-- Number of Days --></label>
+        <name>Number_of_Days__c</name>
+    </fields>
+    <fields>
+        <label><!-- Room Charge --></label>
+        <name>Room_Charge__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Charge --></label>
+        <name>Total_Charge__c</name>
+    </fields>
+    <layouts>
+        <layout>Bill Layout</layout>
+        <sections>
+            <label><!-- Bill Details --></label>
+            <section>Bill Details</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
