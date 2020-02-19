@@ -1,5 +1,5 @@
 public class ShippingAddressTigger {
-    public integer number1 {get;set;}
+   public integer number1 {get;set;}
   public integer number2 {get;set;}
   public integer result {get;set;}
   
@@ -22,6 +22,7 @@ public class ShippingAddressTigger {
       
         
     }
+
 
 
 }
